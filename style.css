@@ -1,0 +1,33 @@
+body{
+    font-family: 'Varela Round', sans-serif;
+}
+.site_icon{
+    width: 25px;
+    height: 25px;
+}
+.d-flex{
+    display: flex;
+}
+.justify-content-between{
+    justify-content: space-between;
+}
+
+.justify-content-start{
+    justify-content: flex-start
+}
+.align-items-center{
+    align-items: center;
+}
+.mr-1rem{
+    margin-right: 1rem;
+}
+.mr-3{
+    margin-right: 3rem;
+}
+.about-img-wrap .about-img img{
+    border-radius: 20px;
+}
+
+.skills-list{
+    margin: 12px 0;
+}
