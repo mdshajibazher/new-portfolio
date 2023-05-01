@@ -1,0 +1,790 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+    
+    
+    /***************************************/
+    /*slider-area*/
+    /***************************************/
+    .slider-area .slide-text h1 {
+        font-size: 36px;
+    }
+    
+    .slider-area .slide-text .slide-btn {
+        font-size: 14px;
+    }
+    
+    .single-tech-box .fig-body .fig-body-text::after {
+        left: 34%;
+    }
+    
+    .subscribe-area .heading-text h2::after {
+        left: 42%;
+    }
+    
+    
+    
+    /***************************************/
+    /*course-section*/
+    /***************************************/
+    .offer-text .offer-menu li a {
+        font-size: 16px;
+        margin-right: 20px;
+    }
+    
+    .graduation-cap > img {
+        width: 100%;
+        margin: 0 auto;
+    }
+    
+    
+    /***************************************/
+    /*trainers-area*/
+    /***************************************/
+    .trainer-info-area .trainer-pic img {
+        height: 210px;
+    }
+    
+    
+    .trainer-info-area .trainer-info .heading-info::after {
+        left: 31%;
+    }
+    
+    .trainer-info-area .trainer-info .heading-info {
+        margin-bottom: 47px;
+    }
+    
+    .trainer-info-area .trainer-info .contact-menu {
+        margin: 10px auto 32px;
+    }
+    
+    .learn-about-us {
+        margin-left: 74px;
+    }
+    
+    
+    /***************************************/
+    /*information-area*/
+    /***************************************/
+    .info-box h3{
+        font-size:27px;
+    }
+    
+    
+    /***************************************/
+    /*pricing-area*/
+    /***************************************/
+    .pricing-box .price-box-header .price-rec {
+        left: 22%;
+    }
+    
+    
+    /***************************************/
+    /*footer-area*/
+    /***************************************/
+    .social-widget .fsocial-menu li a {
+        margin-bottom: 15px;
+    }
+    
+    
+    
+}
+
+
+
+
+
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    
+    
+    .main-menu li a {
+        font-size: 14px;
+        padding: 36px 16px;
+    }
+    
+    .service-info {
+        margin-bottom: 34px;
+    }
+ 
+    
+    /***************************************/
+    /*slider-area*/
+    /***************************************/
+    .slider-area .slide-text h1 {
+        font-size: 27px;
+    }
+    
+    .slider-area .slide-text .slide-btn {
+        font-size: 14px;
+        padding: 15px 22px;
+    }
+    
+    
+    
+    /***************************************/
+    /*info-counter*/
+    /***************************************/
+    
+    .info-counter {
+        margin-bottom: 37px;
+    }
+    
+    
+    
+    /***************************************/
+    /*course-section*/
+    /***************************************/
+    .offer-text .offer-menu li a {
+        font-size: 14px;
+        margin-right: 12px;
+    }
+    
+    .graduation-cap > img {
+        width: 100%;
+        margin: 0 auto;
+    }
+    
+    .offer-text .offer-menu {
+        margin: 35px 0 0;
+    }
+    
+    .panel-title {
+        font-size: 14px;
+    }
+    
+    .panel-body {
+        font-size: 13px;
+    }
+    
+    .read-more-btn {
+        font-size: 15px;
+        padding: 10px 22px;
+    }
+    
+
+    
+    /***************************************/
+    /*trainer-area*/
+    /***************************************/
+    .trainer-info-area{
+        border:1px solid #f5f5f5;
+    }
+    
+    .trainer-info-area .trainer-info{
+        background-color:transparent;
+        box-shadow:none;
+    }
+    
+    .trainer-info .heading-info:after{
+        background-color:#252930 !important;
+        left:39% !important;
+    }
+    
+    .trainer-info .heading-info h4{
+        color:#535456 !important;
+    }
+    
+    .trainer-info .heading-info p{
+        color:#4a4b4d !important;
+    }
+    
+    .trainer-info p{
+        color:#91969c !important;
+    }
+    
+    .trainer-info-area ul li a{
+        color:#4a4b4d !important;
+    }
+    
+    .trainer-info-area ul li:hover a{
+        color:#F27B66 !important;
+    }
+    
+    
+    /***************************************/
+    /*video-section*/
+    /***************************************/
+    .learn-about-us {
+        margin-top: 35px;
+    }
+    
+    
+    /***************************************/
+    /*info-box*/
+    /***************************************/
+    .info-box.green-border {
+        margin-top: 30px;
+    }
+    
+    
+    /***************************************/
+    /*pricing-area*/
+    /***************************************/
+    .pricing-box {
+        margin-bottom: 30px;
+    }
+    
+    
+    /***************************************/
+    /*footer-area*/
+    /***************************************/
+    .widget-header.green-bg {
+        margin-top: 34px;
+    }
+    
+    .form-widget {
+        margin-top: 30px;
+    }
+    
+    
+    
+    
+    
+    
+    /**************************************/
+    /*LOG-IN page*/
+    /**************************************/
+    .log-in-form {
+        margin-top: 37px;
+    }
+    
+    
+    
+    
+    
+    /**************************************/
+    /*COURSE-INFO page*/
+    /**************************************/
+    .course-menu{
+        padding-right:10px;
+    }
+    
+    .course-dis-area{
+        margin-left:10px;
+    }
+}
+
+
+
+
+
+
+
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+    
+    /****************************************/
+    /*HEADER-AREA*/
+    /****************************************/    
+    .top-bar .hot-line {
+        margin: 10px auto 0;
+        width: 323px;
+    }
+    
+    .top-bar .top-menu-area {
+        float: none;
+        margin: 0 auto;
+        width: 92px;
+    }
+    
+    .expand-social-icon ul {
+        right: -28px !important;
+        top: -11px !important;
+        width: 146px !important;
+    }
+    
+    .top-menu .expand-form {
+        right: -45px !important;
+        top: -11px !important;
+    }
+    
+    .top-bar .top-menu-area .top-menu li .expand-form input.form-control {
+        height: 38px;
+    }
+    
+    .top-bar .top-menu-area .top-menu li .expand-form button.f-submit {
+        height: 39px;
+    }
+    
+    .top-bar .top-menu-area .top-menu li {
+        font-size: 14px;
+        padding: 7px;
+    }
+    
+    
+    /****************************************/
+    /*responsive-menu*/
+    /****************************************/
+    #desktop-menu{
+        display:none;
+    }
+    
+    #responsive-menu{
+        z-index: 9999 !important;
+    }
+    
+    .mobile-menu{
+        display:block;
+        margin:0;
+        padding:14px 0;
+        list-style:none;
+    }
+    
+    .mobile-menu li a{
+        display: block;
+        color: #252930;
+        font-size: 15px;
+        text-transform: capitalize;
+        padding: 7px 10px;
+        position:relative;
+        -webkit-transition: all .3s ease-out;
+        -moz-transition: all .3s ease-out;
+        -ms-transition: all .3s ease-out;
+        transition: all .3s ease-out;
+    }
+    
+    .mobile-menu li:hover a, .mobile-menu li:focus a {
+        color: #F27B66;
+    }
+    
+    .mobile-menu li a i{
+        padding: 10px;
+        position: absolute;
+        right: 0;
+        top: 1%;
+        -webkit-transition: all 0.4s ease 0s;
+        -moz-transition: all 0.4s ease 0s;
+        transition: all 0.4s ease 0s;
+    }
+    
+    .mobile-menu li a i:hover{
+        -webkit-transform:rotate(90deg);
+        -moz-transform:rotate(90deg);
+        transform:rotate(90deg);
+    }
+    
+    .mobile-menu li .sub-menu{
+        display:none;
+        list-style:none;
+        margin:0;
+        padding:0 0 0 20px;
+    }
+    
+    .mobile-menu li .sub-menu li a{
+        color: #252930;
+    }
+    
+    .mobile-menu li .sub-menu li:hover a{
+        color: #F27B66;
+    }
+    
+    
+    /*.menu-button*/
+    .menu-button {
+        display:block;
+        border-radius: 2px;
+        cursor: pointer;
+        height: 30px;
+        left: auto;
+        line-height: 4px;
+        padding: 2px 4px 0;
+        position: absolute;
+        top:-51px;
+        right:3.5%;
+        width: 40px;
+        transition: all ease-in-out 400ms;
+        -moz-transition: all ease-in-out 400ms;
+        -webkit-transition: all ease-in-out 400ms;
+        -ms-transition: all ease-in-out 400ms;
+        -o-transition: all ease-in-out 400ms
+    }
+    
+
+    .menu-button span {
+        display: inline-block;
+        width: 100%;
+        height: 2px;
+        background: #d6d6d6;
+        transition: all ease-in-out 400ms;
+        -moz-transition: all ease-in-out 400ms;
+        -webkit-transition: all ease-in-out 400ms;
+        -ms-transition: all ease-in-out 400ms;
+        -o-transition: all ease-in-out 400ms
+    }
+
+    .menu-button.active span:first-child{
+        transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform-origin: 11px 50%;
+        -ms-transform-origin: 11px 50%;
+        -webkit-transform-origin: 11px 50%;
+    }
+
+    .menu-button.active span:nth-child(2) {
+        display: none;
+    }
+
+    .menu-button.active span:last-child{
+        transform: rotate(-45deg);
+        -webkit-transform: rotate(-45deg);
+        -ms-transform: rotate(-45deg);
+        transform-origin: 12px 50%;
+        -webkit-transform-origin: 12px 50%;
+        -ms-transform-origin: 12px 50%;
+    }
+
+    .menu-button:hover span{
+        background: #F27B66;
+    }
+
+    
+    
+    /****************************************/
+    /*slider-area*/
+    /****************************************/
+    
+    .slider-area .slide-text h1 {
+        font-size: 16px;
+        padding: 27px 38px;
+    }
+    
+    .slider-area .slide-text p {
+        font-size: 12px;
+    }
+    
+    .slider-area .slide-text .slide-btn {
+        font-size: 12px;
+        padding: 12px 26px;
+    }
+    
+    #main-slider .slide-control {
+        font-size: 20px;
+        height: 46px;
+        line-height: 46px;
+        width: 46px;
+    }
+   
+    
+    .service-info {
+        margin-bottom: 34px;
+    }
+    
+    
+    
+    
+    /****************************************/
+    /*course-area*/
+    /****************************************/
+    
+    .single-tech-box .fig-pic img{
+        width:100%;
+        margin:0 auto;
+    }
+    
+    .single-tech-box .fig-body .fig-body-text::after {
+        left: 35%;
+    }
+    
+    
+    /****************************************/
+    /*feature-icon-bx*/
+    /****************************************/
+    .feature-icon-bx li a {
+        font-size: 30px;
+        height: 70px;
+        line-height: 70px;
+        width: 70px;
+    }
+    
+    .info-counter {
+        margin-bottom: 67px;
+    }
+    
+    
+    
+    /***************************************/
+    /*course-section*/
+    /***************************************/
+    .offer-text .offer-menu li a {
+        font-size: 14px;
+        margin-right: 13px;
+    }
+    
+    .graduation-cap > img {
+        width: 100%;
+        margin: 0 auto 35px;
+    }
+    
+    
+    /***************************************/
+    /*info-slide*/
+    /***************************************/
+    .transparent-bg {
+        padding: 135px 0 54px;
+    }
+    
+    #info-slide {
+        margin-top: 35px;
+    }
+    
+    
+    /***************************************/
+    /*subscribe-area*/
+    /***************************************/
+    .subscribe-area .heading-text h2::after {
+        left: 26%;
+    }
+    
+    .subscribe-area .heading-text p {
+        padding: 0 2px;
+    }
+    
+    .subscribe-form .form-btn {
+        font-size: 15px;
+        padding: 12px 12px;
+        right: 0;
+    }
+    
+    
+    /***************************************/
+    /*trainer-info-area*/
+    /***************************************/
+    .trainer-info-area .col-sm-5 {
+        padding-right: 14px;
+    }
+    
+    .trainer-info-area .col-sm-7 {
+        padding-left:14px;
+    }
+    
+    
+    /***************************************/
+    /*video-area*/
+    /***************************************/
+    .video-area iframe {
+        height: 230px;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    
+    
+    /***************************************/
+    /*info-box*/
+    /***************************************/
+    .info-box.red-border,
+    .info-box.yellow-border{
+        margin-bottom: 30px;
+    }
+    
+    
+    
+    /***************************************/
+    /*testimonial-slide*/
+    /***************************************/
+    #testimonial-carousel {
+        margin-left: 0;
+    }
+    
+    .testimonial-slide .mentor-pic {
+        float: none;
+    }
+    
+    .testimonial-slide .mentor-opinion p {
+        padding: 17px 0;
+        margin-bottom: 30px;
+    }
+    
+    
+    
+    /***************************************/
+    /*pricing-box*/
+    /***************************************/
+    .pricing-box {
+        margin-bottom: 30px;
+    }
+    
+    .pricing-box .price-box-header .price-rec {
+        left: 23.5%;
+    }
+    
+    
+    /***************************************/
+    /*footer-area*/
+    /***************************************/
+    .social-widget {
+        overflow: hidden;
+        margin-bottom:20px;
+    }
+    
+    .social-widget .fsocial-menu {
+        margin: 40px 0 0;
+    }
+    
+    .social-widget .fsocial-menu li a {
+        margin-bottom: 15px;
+    }
+
+    .course-widget {
+        margin-bottom: 35px;
+    }
+    
+    
+    
+    
+    /**************************************/
+    /*LOG-IN page Style*/
+    /**************************************/
+    .log-in-form {
+        margin-top: 37px;
+    }
+    
+    .form-group .col-sm-6 {
+        margin-bottom: 10px;
+    }
+    
+    
+    
+    
+    
+    /**************************************/
+    /*COURSE-INFO page*/
+    /**************************************/
+    .course-menu{
+        padding-right:0px;
+        margin-bottom:30px;
+    }
+    
+    .course-dis-area{
+        margin-left:0px;
+    }
+    
+}
+
+
+
+
+
+
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+    /****************************************/
+    /*header-area*/
+    /****************************************/
+    .top-bar .top-menu-area {
+        width: 110px;
+    }
+    
+    .expand-social-icon ul {
+        top: 37.3px !important;
+        width: 172px !important;
+        right: 78px !important;
+    }
+    
+    .top-menu .expand-form {
+        top: 37px !important;
+        right: 109px !important;
+        margin-top: 0px !important;
+    }
+    
+    .top-bar .top-menu-area .top-menu li .expand-form input.form-control {
+        height: 40px;
+    }
+    
+    .top-bar .top-menu-area .top-menu li .expand-form button.f-submit {
+        height: 40px;
+    }
+    
+    .top-bar .top-menu-area .top-menu li {
+        font-size: 15px;
+        padding: 9px;
+    }
+    
+    
+    /****************************************/
+    /*slider-area*/
+    /****************************************/
+    .slider-area .slide-text h1 {
+        font-size: 22px;
+        padding: 27px 42px;
+    }
+    
+    
+    .service-info p {
+        color: #535456;
+        font-size: 12px;
+        padding: 0 102px;
+    }
+    
+    
+    /****************************************/
+    /*course-area*/
+    /****************************************/
+    .single-tech-box .fig-body .fig-body-text::after {
+        left: 43%;
+    }
+    
+    .offer-text .offer-menu li a {
+        font-size: 16px;
+        margin-right: 18px;
+    }
+    
+    .info-fig img {
+        width: 100%;
+        margin: 0 auto;
+    }
+    
+    
+    /****************************************/
+    /*subscribe-area*/
+    /****************************************/
+    .subscribe-area .heading-text h2::after {
+        left: 37%;
+    }
+    
+    .subscribe-area .heading-text p {
+        padding: 0 44px;
+    }
+    
+    .subscribe-form .form-btn {
+        font-size: 16px;
+        padding: 12px 32px;
+    }
+
+    
+    
+    /****************************************/
+    /*trainer-info-area*/
+    /****************************************/
+    .trainer-info-area .trainer-info .heading-info::after {
+        left: 43%;
+    }
+    
+    
+    .pricing-box .price-box-header .price-rec {
+        left: 37.5%;
+    }
+    
+    
+    
+    
+    /**************************************/
+    /*COURSE-INFO page*/
+    /**************************************/
+    .course-menu{
+        padding:0 30px;
+        margin-bottom:30px;
+    }
+    
+    .course-dis-area{
+        margin:0 30px;
+    }
+}
+
+
+
+/****THE END****/
