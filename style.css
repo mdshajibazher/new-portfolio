@@ -18,6 +18,9 @@ body{
 .align-items-center{
     align-items: center;
 }
+.mb-1rem{
+    margin-bottom: 1rem; 
+}
 .mr-1rem{
     margin-right: 1rem;
 }
